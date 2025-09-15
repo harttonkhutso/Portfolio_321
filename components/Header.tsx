@@ -24,7 +24,7 @@ const Header: React.FC = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="flex justify-between items-center py-4">
           <div className="w-12 h-12 rounded-full shadow-lg pulse-glow">
-            <img src="https://capeitinitiative-my.sharepoint.com/personal/hartton_malau_capaciti_org_za/Documents/Profile%20Pic.PNG" alt="Hartton Malau" className="w-full h-full object-cover rounded-full" />
+            <img src="images/Profile Pic.PNG" />
           </div>
           <div className="hidden md:flex space-x-8">
             {navLinks.map(link => (
