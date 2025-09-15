@@ -56,7 +56,7 @@ const Hero: React.FC = () => {
       <div className="text-center px-6 relative z-10">
         <div className="flex flex-col items-center justify-center gap-y-4 mb-6">
           <div className="w-32 h-32 md:w-40 md:h-40 rounded-full floating pulse-glow flex-shrink-0 overflow-hidden shadow-2xl border-4 border-white/30">
-            <img src="https://capeitinitiative-my.sharepoint.com/personal/hartton_malau_capaciti_org_za/Documents/Profile%20Pic.PNG" alt="Hartton Malau" className="w-full h-full object-cover" />
+            <img src="images/Profile Pic.PNG" alt="Hartton Malau" className="w-full h-full object-cover" />
           </div>
           <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-white to-purple-200 bg-clip-text text-transparent text-center">
             Hartton Malau
