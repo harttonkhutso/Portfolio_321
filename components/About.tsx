@@ -21,7 +21,7 @@ const About: React.FC<AboutProps> = ({ onViewCertifications, onViewTechStack }) 
         <div className="grid md:grid-cols-2 gap-12 items-center mb-12">
           <div>
             <div className="w-80 h-80 mx-auto bg-gradient-to-br from-purple-400 via-blue-500 to-purple-600 rounded-3xl p-2 shadow-2xl floating">
-              <img src="images/Profile Pic.PNG" alt="Hartton Malau" className="w-full h-full object-cover rounded-2xl" />
+              <img src="/Profile Pic.PNG" alt="Hartton Malau" className="w-full h-full object-cover rounded-2xl" />
             </div>
           </div>
           <div>
